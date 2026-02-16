@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <!--# Hi, I'm Ekaterina 👋
+
+
 
 Computer Science student focused on systems programming and backend development.
 
